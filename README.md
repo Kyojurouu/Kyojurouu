@@ -22,7 +22,25 @@
 
 ### Stats
 
-![Metrics](github-metrics.svg)
+![Base Metrics](github-metrics-base.svg)
+
+---
+
+### Activity
+
+![Isometric Calendar](github-metrics-isocalendar.svg)
+
+---
+
+### Repositories
+
+![Repositories](github-metrics-repositories.svg)
+
+---
+
+### Stars
+
+![Stars](github-metrics-stars.svg)
 
 ---
 
